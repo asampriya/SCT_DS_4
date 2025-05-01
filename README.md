@@ -44,5 +44,5 @@ pip install pandas matplotlib seaborn folium
 - *Road Conditions:* Most accidents occur on dry roads, suggesting other factors may play significant roles.
 
 ## Acknowledgements
-```
+
 Thanks to SkillCraft Technology for providing the opportunity to work on this project.
